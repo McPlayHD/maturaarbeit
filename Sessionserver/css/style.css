@@ -1,0 +1,27 @@
+/* CSS Document */
+
+body {
+	height:100%;
+	font-family: 'Open Sans', sans-serif, Arial;
+	background-image:url('../images/bg.png');
+	background-size: cover;
+	background-attachment: fixed;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 100%;
+	min-height: 100%;
+	box-shadow: inset 0px 0px 194px -39px rgba(0,0,0,0.66);
+}
+
+.content {
+	margin-top: 7%;
+	margin-bottom: 7%;
+	margin-right: 20%;
+	margin-left: 20%;
+	padding: 20px;
+	text-align: center;
+	background-color: rgba(255, 255, 255, 0.95);
+	border-radius: 20px;
+	box-shadow: 10px 10px 64px -10px rgba(0,0,0,0.33);
+}
